@@ -57,7 +57,7 @@ Der aktuelle Lernpfad liegt insbesondere auf:
 Wenn du ebenfalls mit GitHub Copilot lernst, Ideen für Automatisierungen hast oder Erfahrungen im Bereich Datenanalyse und Praxisprojekte austauschen möchtest, freue ich mich über Kontakt.
 
 - GitHub: [@omidngng](https://github.com/omidngng)
-- E-Mail: [Bitte hier E-Mail-Adresse eintragen]
+
 
 ## Hinweis
 
